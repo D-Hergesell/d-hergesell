@@ -51,5 +51,7 @@ Estudo os fundamentos matemáticos da computação quântica (Woody III → Niel
 
 ### 📊 GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=D-Hergesell&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true)](https://github.com/D-Hergesell)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Hergesell&layout=compact&theme=github_dark_dimmed)](https://github.com/D-Hergesell)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+
+*(cards gerados automaticamente todo dia via GitHub Actions — veja `.github/workflows/update-readme-cards.yml`)*
