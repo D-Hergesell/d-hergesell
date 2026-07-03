@@ -22,8 +22,8 @@ Estudo os fundamentos matemáticos da computação quântica (Woody III → Niel
 | Foco atual | Status |
 |---|---|
 | Essential Mathematics for Quantum Computing (Woody III) | Em andamento |
-| Nielsen & Chuang | Meta para o fim do ano |
-| Algoritmos: Grover, Shor, QFT, QPE | Estudando padrões |
+| Nielsen & Chuang | Próximo passo |
+| Algoritmos quânticos (Grover, Shor, QFT, QPE) | Ainda não iniciado |
 | [studying-quantum-computing](https://github.com/D-Hergesell/studying-quantum-computing) | Repositório público de notas e implementações (Qiskit) |
 
 ---
