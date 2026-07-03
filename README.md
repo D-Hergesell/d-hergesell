@@ -1,6 +1,6 @@
 ### Olá, eu sou o Diego! 👋
 
-**Estudante de Ciência da Computação (UNESC) | Migrando para Computação Quântica**
+**Estudante de Ciência da Computação (UNESC) | Desenvolvedor Júnior | Migrando para Computação Quântica**
 *Base em Backend & Mobile (Java, Spring Boot, Android) · Explorando Qiskit, álgebra linear e algoritmos quânticos*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/diego-hergesell-a71460335)
@@ -11,7 +11,7 @@
 
 ### 🚀 Sobre Mim
 
-Comecei na engenharia de software construindo sistemas completos — do banco de dados à experiência no app — e hoje estou redirecionando esse foco para **computação quântica**, com o objetivo de seguir para uma pós-graduação na área.
+Sou estudante de Ciência da Computação, ainda no início de carreira como desenvolvedor júnior — construindo projetos completos como forma de aprender na prática, do banco de dados à experiência no app. Hoje estou redirecionando esse foco para **computação quântica**, com o objetivo de seguir para uma pós-graduação na área.
 
 Estudo os fundamentos matemáticos da computação quântica (Woody III → Nielsen & Chuang) e algoritmos como **Grover**, **Shor** e **QPE**, documentando tudo publicamente. Minha afinidade com matemática tem me levado para subáreas teóricas como teoria da informação quântica e correção de erros quânticos.
 
